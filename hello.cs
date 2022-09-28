@@ -1,6 +1,6 @@
 // create hello world
 using System;
-class Hello
+class HelloWorld
 {
     static void Main()
     {
