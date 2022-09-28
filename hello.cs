@@ -4,6 +4,8 @@ class HelloWorld
 {
     static void Main()
     {
-        Console.WriteLine("Hello World!");
+        Console.WriteLine("Ahoj svete");
+        Console.WriteLine("Ahoj svete");
+        Console.WriteLine("Ahoj svete");
     }
 }
