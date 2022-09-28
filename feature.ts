@@ -2,7 +2,8 @@ export default () => {
     return  {  
         name:  'feature' ,
         state: {
-            foo:  'bar'
+            foo:  'bar',
+            abc: 'abc'
         },
         reducers: {
             setFoo(state, payload) {
