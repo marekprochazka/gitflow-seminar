@@ -7,5 +7,14 @@ class HelloWorld
         Console.WriteLine("Ahoj svete");
         Console.WriteLine("Ahoj svete");
         Console.WriteLine("Ahoj svete");
+        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello World!");
     }
 }
