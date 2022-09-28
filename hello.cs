@@ -1,0 +1,9 @@
+// create hello world
+using System;
+class Hello
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello Wrld!");
+    }
+}
