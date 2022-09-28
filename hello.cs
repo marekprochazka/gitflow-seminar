@@ -4,6 +4,6 @@ class Hello
 {
     static void Main()
     {
-        Console.WriteLine("Hello Wrld!");
+        Console.WriteLine("Hello World!");
     }
 }
